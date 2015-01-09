@@ -1,0 +1,31 @@
+body {
+  text-align: left;
+  background: url("../assets/stripes.png"), url("../assets/background.jpg");
+  background-repeat: repeat-x, no-repeat;
+  background-size: auto, cover;
+  font-size: 16px;
+  font-family: 'Helvetica', sans-serif;
+  color: white;
+}
+
+h2 {
+  text-align: left;
+}
+
+hr {
+  width: 100px;
+  margin-left: 0px;
+  border: none;
+  height: 2px;
+  background-color: #905d67;
+}
+
+div {
+  width: 600px;
+  height: 250px;
+  margin-top: 250px;
+  margin-left: 20px;
+}
+
+
+
