@@ -1,0 +1,34 @@
+body {
+    background-image: url("http://www.cadtutor.net/download/raster/sky_04_source/sky-30.jpg");
+    background-color: #66CCFF;
+    background-repeat: repeat-x repeat-y;
+    text-align: center;
+}
+
+h1 {
+	color: red;
+	text-align: center;
+}
+
+h2 {border-bottom: 1px solid black;
+}
+
+a {
+	color: magenta;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.twitter {
+	color: #ff0066;
+}
+.wikipedia {
+	color: red;
+}
+
+.background {
+
+}
